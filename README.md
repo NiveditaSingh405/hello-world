@@ -3,6 +3,6 @@ beginner hello world program
 
 Hii
 This is my first project on GitHub.
-This is going to be fun!!!
+This looks fun!
 
 Moving forward in the learning process. 
