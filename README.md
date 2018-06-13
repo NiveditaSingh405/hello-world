@@ -5,5 +5,5 @@ beginner hello world program
 This is my first project on GitHub.
 This looks fun!
 
-Moving forward in the learning process. 
-what's new??
+Moving forward in the learning program.
+hi all!
