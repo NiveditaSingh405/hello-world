@@ -1,0 +1,7 @@
+// the hello world program
+
+//python
+print('hello world')
+
+//or
+print("hello world")
